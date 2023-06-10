@@ -22,6 +22,5 @@ jobs:
 
       - name: Install deps
         run: |
-          npm i --package-lock-only
           npm ci
           npm publish
