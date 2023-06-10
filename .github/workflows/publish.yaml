@@ -21,6 +21,4 @@ jobs:
           registry-url: 'https://registry.npmjs.org'
 
       - name: Install deps
-        run: |
-          npm ci
-          npm publish
+        run: npm publish
