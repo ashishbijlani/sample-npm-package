@@ -22,4 +22,4 @@ jobs:
 
       - name: Install deps
         run: |
-          npm publish
+          npm publish --access public
