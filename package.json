@@ -1,6 +1,6 @@
 {
-  "name": "PKG_NAME",
-  "version": "PKG_VERSION",
+  "name": "@ossillate/testfoo-my",
+  "version": "0.0.1",
   "description": "This is a placeholder package.",
   "main": "index.js",
   "scripts": {
