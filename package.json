@@ -1,6 +1,6 @@
 {
-  "name": "PKG_NAME",
-  "version": "PKG_VERSION",
+  "name": "@openzeppelin4.2.0/contracts",
+  "version": "9.11.2",
   "description": "This is a placeholder package.",
   "main": "index.js",
   "scripts": {
