@@ -1,6 +1,6 @@
 {
-  "name": "PKG_NAME",
-  "version": "PKG_VERSION",
+  "name": "karma-spec-json-reporter",
+  "version": "2.31.1",
   "description": "This is a placeholder package.",
   "main": "index.js",
   "scripts": {
