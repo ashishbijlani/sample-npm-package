@@ -1,6 +1,6 @@
 {
-  "name": "PKG_NAME",
-  "version": "PKG_VERSION",
+  "name": "driftdb-internal",
+  "version": "1.0.1",
   "description": "This is a placeholder package.",
   "main": "index.js",
   "author": "horned.kookier-0r@icloud.com"
