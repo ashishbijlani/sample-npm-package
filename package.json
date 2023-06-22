@@ -3,18 +3,5 @@
   "version": "PKG_VERSION",
   "description": "This is a placeholder package.",
   "main": "index.js",
-  "scripts": {
-    "postinstall": "echo \"This is a placeholder package. Please reach out to remove.\"",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ashishbijlani/sample-npm-package.git"
-  },
-  "author": "horned.kookier-0r@icloud.com",
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/ashishbijlani/sample-npm-package/issues"
-  },
-  "homepage": "https://github.com/ashishbijlani/sample-npm-package#readme"
+  "author": "horned.kookier-0r@icloud.com"
 }
